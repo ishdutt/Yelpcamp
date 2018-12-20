@@ -11,6 +11,6 @@ MEN stack(MongoDB,Express and NodeJS).Currently working for more advanced featur
 6.PassportJS<br>
 
 <h3>For Developers </h3>
-<strong>How to use this project </strong>
-1.Clone the repository to your local environment with nodeJS and mongoDB and you are ready to go. For local database,change the mongoose.connect line in the code with yours mongodb://localhost/ ,and you will be good to go.
+<strong>How to use this project </strong><br>
+1.Clone the repository to your local environment with nodeJS and mongoDB and you are ready to go. For local database,change the mongoose.connect line in the code with yours mongodb://localhost/ ,and you will be good to go.<br>
 2.You can fork the project and make the changes you want without changing the original project.
